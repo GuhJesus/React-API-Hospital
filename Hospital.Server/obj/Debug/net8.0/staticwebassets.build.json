@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "C38SEo7+vM4v73pDgwktQ3uHYY2OfnNfoc1Em3fy5AM=",
+  "Source": "Hospital.Server",
+  "BasePath": "_content/Hospital.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\hospital.client.esproj",
+      "Version": 2,
+      "Source": "hospital.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

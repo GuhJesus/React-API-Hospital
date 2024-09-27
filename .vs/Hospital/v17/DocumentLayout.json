@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guy_g\\source\\repos\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25AAF551-72D5-465B-82FF-305A05214563}|Hospital.Server\\Hospital.Server.csproj|c:\\users\\guy_g\\source\\repos\\hospital\\hospital.server\\enums\\estatusatendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AAF551-72D5-465B-82FF-305A05214563}|Hospital.Server\\Hospital.Server.csproj|solutionrelative:hospital.server\\enums\\estatusatendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96E8A7B-D5D5-4EF4-9568-590B6C8972A9}|hospital.client\\hospital.client.esproj|c:\\users\\guy_g\\source\\repos\\hospital\\hospital.client\\src\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D96E8A7B-D5D5-4EF4-9568-590B6C8972A9}|hospital.client\\hospital.client.esproj|solutionrelative:hospital.client\\src\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AAF551-72D5-465B-82FF-305A05214563}|Hospital.Server\\Hospital.Server.csproj|c:\\users\\guy_g\\source\\repos\\hospital\\hospital.server\\controllers\\triagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AAF551-72D5-465B-82FF-305A05214563}|Hospital.Server\\Hospital.Server.csproj|solutionrelative:hospital.server\\controllers\\triagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96E8A7B-D5D5-4EF4-9568-590B6C8972A9}|hospital.client\\hospital.client.esproj|c:\\users\\guy_g\\source\\repos\\hospital\\hospital.client\\src\\pages\\filas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D96E8A7B-D5D5-4EF4-9568-590B6C8972A9}|hospital.client\\hospital.client.esproj|solutionrelative:hospital.client\\src\\pages\\filas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96E8A7B-D5D5-4EF4-9568-590B6C8972A9}|hospital.client\\hospital.client.esproj|c:\\users\\guy_g\\source\\repos\\hospital\\hospital.client\\src\\services\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D96E8A7B-D5D5-4EF4-9568-590B6C8972A9}|hospital.client\\hospital.client.esproj|solutionrelative:hospital.client\\src\\services\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96E8A7B-D5D5-4EF4-9568-590B6C8972A9}|hospital.client\\hospital.client.esproj|c:\\users\\guy_g\\source\\repos\\hospital\\hospital.client\\src\\pages\\filaatendimento.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D96E8A7B-D5D5-4EF4-9568-590B6C8972A9}|hospital.client\\hospital.client.esproj|solutionrelative:hospital.client\\src\\pages\\filaatendimento.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96E8A7B-D5D5-4EF4-9568-590B6C8972A9}|hospital.client\\hospital.client.esproj|c:\\users\\guy_g\\source\\repos\\hospital\\hospital.client\\src\\pages\\registropaciente.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D96E8A7B-D5D5-4EF4-9568-590B6C8972A9}|hospital.client\\hospital.client.esproj|solutionrelative:hospital.client\\src\\pages\\registropaciente.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EStatusAtendimento.cs",
+              "DocumentMoniker": "C:\\Users\\guy_g\\source\\repos\\Hospital\\Hospital.Server\\Enums\\EStatusAtendimento.cs",
+              "RelativeDocumentMoniker": "Hospital.Server\\Enums\\EStatusAtendimento.cs",
+              "ToolTip": "C:\\Users\\guy_g\\source\\repos\\Hospital\\Hospital.Server\\Enums\\EStatusAtendimento.cs",
+              "RelativeToolTip": "Hospital.Server\\Enums\\EStatusAtendimento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:19:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.css",
+              "DocumentMoniker": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\src\\Header.css",
+              "RelativeDocumentMoniker": "hospital.client\\src\\Header.css",
+              "ToolTip": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\src\\Header.css",
+              "RelativeToolTip": "hospital.client\\src\\Header.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-23T15:01:45.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriagemController.cs",
+              "DocumentMoniker": "C:\\Users\\guy_g\\source\\repos\\Hospital\\Hospital.Server\\Controllers\\TriagemController.cs",
+              "RelativeDocumentMoniker": "Hospital.Server\\Controllers\\TriagemController.cs",
+              "ToolTip": "C:\\Users\\guy_g\\source\\repos\\Hospital\\Hospital.Server\\Controllers\\TriagemController.cs",
+              "RelativeToolTip": "Hospital.Server\\Controllers\\TriagemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:15:03.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "api.jsx",
+              "DocumentMoniker": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\src\\services\\api.jsx",
+              "RelativeDocumentMoniker": "hospital.client\\src\\services\\api.jsx",
+              "ToolTip": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\src\\services\\api.jsx",
+              "RelativeToolTip": "hospital.client\\src\\services\\api.jsx",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-23T14:12:52.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistroPaciente.jsx",
+              "DocumentMoniker": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\src\\pages\\RegistroPaciente.jsx",
+              "RelativeDocumentMoniker": "hospital.client\\src\\pages\\RegistroPaciente.jsx",
+              "ToolTip": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\src\\pages\\RegistroPaciente.jsx",
+              "RelativeToolTip": "hospital.client\\src\\pages\\RegistroPaciente.jsx",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-23T11:26:24.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilaAtendimento.jsx",
+              "DocumentMoniker": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\src\\pages\\FilaAtendimento.jsx",
+              "RelativeDocumentMoniker": "hospital.client\\src\\pages\\FilaAtendimento.jsx",
+              "ToolTip": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\src\\pages\\FilaAtendimento.jsx",
+              "RelativeToolTip": "hospital.client\\src\\pages\\FilaAtendimento.jsx",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-23T00:19:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Filas.jsx",
+              "DocumentMoniker": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\src\\pages\\Filas.jsx",
+              "RelativeDocumentMoniker": "hospital.client\\src\\pages\\Filas.jsx",
+              "ToolTip": "C:\\Users\\guy_g\\source\\repos\\Hospital\\hospital.client\\src\\pages\\Filas.jsx",
+              "RelativeToolTip": "hospital.client\\src\\pages\\Filas.jsx",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-23T00:11:14.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

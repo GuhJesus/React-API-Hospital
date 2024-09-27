@@ -1,0 +1,68 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #4d9de0; /* Azul claro */
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 0;
+    z-index: 1000; /* para garantir que o menu fique sobre outros elementos */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra leve */
+}
+
+    .navbar button {
+        background-color: transparent; /* Deixa o fundo transparente para combinar com o fundo da navbar */
+        color: white;
+        border: none;
+        padding: 14px 20px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 17px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave para hover */
+        flex-grow: 1;
+    }
+
+        .navbar button:hover {
+            background-color: #fff; /* Fundo branco ao passar o mouse */
+            color: #4d9de0; /* Texto na cor azul */
+        }
+
+/* Remover a margem padrão do body */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+main {
+    margin-top: 60px; /* Espaço para o menu fixo */
+    padding: 20px;
+    box-sizing: border-box;
+    min-height: 100vh; /* Inclui padding e border na altura total */
+}
+
+/* Ajustes para responsividade */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column; /* Alinha os botões verticalmente em telas menores */
+        padding: 10px 0;
+    }
+
+        .navbar button {
+            padding: 10px;
+            font-size: 16px;
+            width: 100%;
+            text-align: center;
+        }
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0 10px;
+    padding-top: 20px;
+    font-size: 24px;
+    color: #333;
+}
